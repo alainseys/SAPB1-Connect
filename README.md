@@ -6,14 +6,14 @@
 var SAPSERVER = ConfigurationManager.AppSettings["server"];
 </pre>
 
-<b>Required Keys:</b>
-add key="server" value="YOURSERVERNAME" 
-add key="licenseserver" value="YOURSERVERNAME:30000" 
-add key="dbuser" value="yourdbusername"
-add key="dbpass" value="yourdbpassword" 
-add key="company" value="yourcompanydb"
-add key="user" value="SAP_USER"
-add key="pass" value="SAP_USER_PASSWORD"
+<b>Required Keys:</b><br>
+add key="server" value="YOURSERVERNAME" <br>
+add key="licenseserver" value="YOURSERVERNAME:30000" <br>
+add key="dbuser" value="yourdbusername" <br>
+add key="dbpass" value="yourdbpassword"  <br>
+add key="company" value="yourcompanydb"<br>
+add key="user" value="SAP_USER"<br>
+add key="pass" value="SAP_USER_PASSWORD"<br>
 
 
 
