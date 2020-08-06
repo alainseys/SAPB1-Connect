@@ -33,5 +33,17 @@ namespace SAPB1_Connect
             }
             return connectionResult;
         }
+        public SAPbobsCOM.Company GetCompany()
+        {
+            return this.company;
+        }
+        public int GetErrorCode()
+        {
+            return this.errorCode;
+        }
+        public String GetErrorMessage()
+        {
+            return this.errorMessage;
+        }
     }
 }

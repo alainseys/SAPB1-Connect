@@ -1,0 +1,8 @@
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\obj\Debug\SAPB1-Connect.csprojAssemblyReference.cache
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\obj\Debug\SAPB1-Connect.csproj.ResolveComReference.cache
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\obj\Debug\SAPB1-Connect.csproj.CoreCompileInputs.cache
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\obj\Debug\SAPB1-Connect.dll
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\obj\Debug\SAPB1-Connect.pdb
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\bin\Debug\SAPB1-Connect.dll
+C:\Users\alain.BIOPACK\Desktop\SAPB1-Connect\SAPB1-Connect\bin\Debug\SAPB1-Connect.pdb
