@@ -2,16 +2,16 @@
 
 <b><p>How to connect</p></b>
 <hr />
-<p>Create in your C# solution a app.config file with the following params:</p>
+<p>Create in your C# solution a app.config file with the following params: (see App.config.sample)</p>
 <ul>
-            <li><add key="server" value="SAPSRV" /></li>
-            <li><add key="licenseServer" value="SAPSRV:30000" /></li>
-            <li><add key="dbuser" value="sa" /></li>
-            <li><add key="dbpass" value="YourDBApassword" /></li>
-            <li><add key="companydb" value="ProductionDatabase" /></li>
-            <li><add key="user" value="SAPUSER" /></li>
-            <li><add key="pass" value="SAPPASSWORD" /></li>
-            <li><add key="ClientSettingsProvider.ServiceUri" value="" /></li>
+            <li>add key="server" value="SAPSRV" /></li>
+            <li>add key="licenseServer" value="SAPSRV:30000" /></li>
+            <li>add key="dbuser" value="sa" /></li>
+            <li>add key="dbpass" value="YourDBApassword" /></li>
+            <li>add key="companydb" value="ProductionDatabase" /></li>
+            <li>add key="user" value="SAPUSER" /></li>
+            <li>add key="pass" value="SAPPASSWORD" /></li>
+            <li>add key="ClientSettingsProvider.ServiceUri" value="" /></li>
 </ul>
 <p>Fill out the values that match your enviroment, and add the DLL libary to your references</p>
 
