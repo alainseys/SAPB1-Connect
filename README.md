@@ -5,13 +5,13 @@
 <p>Create in your C# solution a app.config file with the following params:</p>
 <pre>
 <add key="server" value="SAPSRV" />
-		<add key="licenseServer" value="SAPSRV:30000" />
-		<add key="dbuser" value="sa" />
-		<add key="dbpass" value="YourDBApassword" />
-		<add key="companydb" value="ProductionDatabase" />
-		<add key="user" value="SAPUSER" />
-		<add key="pass" value="SAPPASSWORD" />
-		<add key="ClientSettingsProvider.ServiceUri" value="" />
+<add key="licenseServer" value="SAPSRV:30000" />
+<add key="dbuser" value="sa" />
+<add key="dbpass" value="YourDBApassword" />
+<add key="companydb" value="ProductionDatabase" />
+<add key="user" value="SAPUSER" />
+<add key="pass" value="SAPPASSWORD" />
+<add key="ClientSettingsProvider.ServiceUri" value="" />
 </pre>
 <p>Fill out the values that match your enviroment, and add the DLL libary to your references</p>
 
