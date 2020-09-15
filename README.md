@@ -1,5 +1,11 @@
 <h2>SAPB1-Connect</h2>
 
+<b>prerequisites</b>
+<ul>
+            <li>Visual Studio Installed</li>
+            <li>Sap Buisness one SDK installed</li>
+</ul>
+
 <b><p>How to connect</p></b>
 <hr />
 <p>Create in your C# solution a app.config file with the following params: (see App.config.sample)</p>
@@ -13,8 +19,10 @@
             <li>add key="pass" value="SAPPASSWORD" /></li>
             <li>add key="ClientSettingsProvider.ServiceUri" value="" /></li>
 </ul>
-<p>Fill out the values that match your enviroment, and add the DLL libary to your references</p>
+<p>Fill out the values that match your enviroment.</p>,
 
+<p>Add the DLL libary of SAPB1_Connect and SAPbobsCom ("C:\Program Files\SAP\SAP Business One DI API\DI API 90\SAPbobsCOM90.dll") as reference to your solution, so you will be able tho call them.
+            
 <p>In your code yo need to setup a connection and execute the write to the sap database bellow some sample code</p>
 
 <b>Example : Write payment date and payment link of MSP to sap ORDR (orders) table </b>
