@@ -56,4 +56,4 @@ try
 </pre>
 
 <b>Recomendation:</b>
-<p>I recommend before you setup your sap project you implement LOG4NET in your solution so you can write some debugging code</p>
+<p>I recommend before you setup your sap project you implement <a href:"https://www.nuget.org/packages/log4net/">LOG4NET</a> in your solution so you can write some debugging code</p>
