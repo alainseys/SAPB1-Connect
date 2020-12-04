@@ -20,7 +20,7 @@ namespace SAPB1_Connect
             company.CompanyDB = ConfigurationManager.AppSettings["companydb"].ToString();
             company.DbUserName = ConfigurationManager.AppSettings["dbuser"].ToString();
             company.DbPassword = ConfigurationManager.AppSettings["dbpass"].ToString();
-            company.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_MSSQL2012;
+            company.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_MSSQL2017;
             company.UserName = ConfigurationManager.AppSettings["user"].ToString();
             company.Password = ConfigurationManager.AppSettings["pass"].ToString();
             company.language = SAPbobsCOM.BoSuppLangs.ln_Dutch;
