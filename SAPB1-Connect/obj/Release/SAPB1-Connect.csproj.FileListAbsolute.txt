@@ -1,7 +1,8 @@
 C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\bin\Release\SAPB1-Connect.dll
 C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\bin\Release\SAPB1-Connect.pdb
-C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\bin\Release\SAPBusinessOneSDK.dll
 C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\SAPB1-Connect.csproj.CoreCompileInputs.cache
-C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\SAPB1-Connect.csproj.CopyComplete
 C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\SAPB1-Connect.dll
 C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\SAPB1-Connect.pdb
+C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\SAPB1-Connect.csprojAssemblyReference.cache
+C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\Interop.SAPbobsCOM.dll
+C:\Users\alain\source\repos\SAPB1-Connect\SAPB1-Connect\obj\Release\SAPB1-Connect.csproj.ResolveComReference.cache
