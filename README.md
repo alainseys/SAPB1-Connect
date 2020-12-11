@@ -3,7 +3,7 @@
 <b>prerequisites</b>
 <ul>
             <li>Visual Studio Installed</li>
-            <li>Sap Buisness one SDK installed</li>
+            <li>Sap Business one SDK installed</li>
 </ul>
 
 <b><p>How to connect</p></b>
@@ -19,9 +19,9 @@
             <li>add key="pass" value="SAPPASSWORD" /></li>
             <li>add key="ClientSettingsProvider.ServiceUri" value="" /></li>
 </ul>
-<p>Fill out the values that match your enviroment.</p>,
+<p>Fill out the values that match your environment.</p>,
 
-<p>Add the DLL libary of SAPB1_Connect and SAPbobsCom ("C:\Program Files\SAP\SAP Business One DI API\DI API 90\SAPbobsCOM90.dll") as reference to your solution, so you will be able tho call them.
+<p>Add the DLL library of SAPB1_Connect and SAPbobsCom ("C:\Program Files\SAP\SAP Business One DI API\DI API 90\SAPbobsCOM90.dll") as reference to your solution, so you will be able to call them.
             
 <p>In your code yo need to setup a connection and execute the write to the sap database bellow some sample code</p>
 
